@@ -1,1 +1,1 @@
-# rosa-jimenez
+Hi there! I’m currently a student studying data science and building up my skills in Python, problem-solving, and general software development. I’m especially focused on improving my confidence in coding through hands-on assignments, and I’m preparing to take the General Coding Assessment soon. I use this space to track my learning, share my projects, and grow as a developer. Always learning—one line of code at a time!
