@@ -24,3 +24,18 @@ I’m an aspiring data analyst learning how to turn messy data into insights.
 
 🌱 Always learning, always improving.  
 📫 Reach me here on GitHub or follow along as I grow!
+
+## 🚀 Next Steps
+
+- Try logistic regression or XGBoost for comparison  
+- Add cross-validation  
+- Explore time-based features more deeply  
+- Predict reorders for other high-frequency items  
+
+## 🙋‍♀️ Author
+
+**Rosa Jimenez**  
+Aspiring Data Analyst | Python & Data Cleaning | Always Learning  
+🔗 [LinkedIn](https://www.linkedin.com/in/rosa-jimenez-17297a25)  
+🌐 [GitHub](https://github.com/rosa-jimenez-data)
+
