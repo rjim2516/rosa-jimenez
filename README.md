@@ -1,1 +1,17 @@
-Hi there! I’m currently a student studying data science and building up my skills in Python, problem-solving, and general software development. I’m especially focused on improving my confidence in coding through hands-on assignments, and I’m preparing to take the General Coding Assessment soon. I use this space to track my learning, share my projects, and grow as a developer. Always learning—one line of code at a time!
+# Hi, I’m Rosa 👋
+
+I’m an aspiring data analyst learning how to turn messy data into insights.
+
+🔍 **Current Focus:**
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Python, pandas, and scikit-learn
+- Practicing coding challenges for the GCA
+
+📚 **Projects:**
+- Real-world data cleaning and boosting models
+- GCA practice problems and notes
+- Assignments from my data science training program
+
+🌱 Always learning, always improving.  
+📫 Reach me here on GitHub or follow along as I grow!
