@@ -2,6 +2,7 @@
 
 
 
+
 # Hi, I’m Rosa 👋
 
 I’m an aspiring data analyst learning how to turn messy data into insights.
