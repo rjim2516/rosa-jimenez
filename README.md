@@ -1,3 +1,7 @@
+![Rosa Jimenez GitHub Banner](https://github.com/rosa-jimenez-data/rosa-jimenez/blob/main/github-banner.png?raw=true)
+
+
+
 # Hi, I’m Rosa 👋
 
 I’m an aspiring data analyst learning how to turn messy data into insights.
@@ -9,6 +13,11 @@ I’m an aspiring data analyst learning how to turn messy data into insights.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
 
 
 🔍 **Current Focus:**
